@@ -10,4 +10,4 @@
 
 <b> 📱 Socials: </b>
 <p> My website: <a href="https://mitza-onlinepage.vercel.app" target="_blank">https://mitza-onlinepage.vercel.app</a> </p>
-<p> My Instagram: <a href="https://www.instagram.com/___wraith___/" target="_blank">@___wraith___</a> </p>
+<p> My Instagram: <a href="https://www.instagram.com/meetza_/" target="_blank">@meetza_</a> </p>
